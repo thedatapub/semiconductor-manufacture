@@ -10,7 +10,7 @@ TODO: Describir los datos
 ## Phases
 
 ### Descriptive Analysis
-Describe the data as it is, without any assumption:
+Describe the data as it is, without any assumption, flie by file, and field by field.
 - Characterize numerical columns with histograms and density plots.
 - Characterize categorical columns with contingency tables.
 
